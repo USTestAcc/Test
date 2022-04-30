@@ -1,5 +1,5 @@
 ---
-company: 'Tripplenix'
+company: 'IONOS'
 from: '2020-08'
 to: 'today'
 ---
